@@ -7,10 +7,8 @@ Welcome to my repository! I'm excited to share a variety of projects with you, c
 Here's a list of projects included in this repository:
 
 1. [Project 1: Home Network Setup Guide](#project-1-home-network-setup-guide)
-2. [Project 2: [Your Project Name]](#project-2-your-project-name)
-3. [Project 3: [Your Project Name]](#project-3-your-project-name)
-4. [Project 4: [Your Project Name]](#project-4-your-project-name)
-5. [Project 5: [Your Project Name]](#project-5-your-project-name)
+2. [Project 2: [Coming soon!]
+3. [Project 3: [Coming soon!]
 
 Feel free to explore each project and learn more about what we're working on!
 
@@ -53,25 +51,3 @@ If you have any questions, feedback, or just want to say hi, feel free to reach 
 - [Linkedin](https://Linkedin.com/in/AmauryDiaz)
 
 ---
-
-## Project 2: [Your Project Name]
-
-[Add information about your second project here]
-
----
-
-## Project 3: [Your Project Name]
-
-[Add information about your third project here]
-
----
-
-## Project 4: [Your Project Name]
-
-[Add information about your fourth project here]
-
----
-
-## Project 5: [Your Project Name]
-
-[Add information about your fifth project here]
