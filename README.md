@@ -1,6 +1,6 @@
-# Welcome to [Yruama]!
+# Hey! My names Amaury! 😁
 
-Hey 😁 welcome to my repository! I'm excited to share a variety of projects with you, covering topics ranging from home networking to cybersecurity and MORE! Take a look around and see what catches your eye!
+Welcome to my repository! I'm excited to share a variety of projects with you, covering topics ranging from home networking to cybersecurity and MORE! Take a look around and see what catches your eye!
 
 ## Projects
 
